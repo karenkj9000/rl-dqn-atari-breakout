@@ -1,2 +1,3 @@
-# rl-dqn-atari-videopinball
-Deep Reinforcement Learning applied to the Atari game Video Pinball using Vanilla DQN and Double DQN
+# Atari Reinforcement Learning - Video Pinball with DQN
+
+This project explores Deep Q-Learning and Double DQN for the Atari game **Video Pinball** using OpenAI Gym.

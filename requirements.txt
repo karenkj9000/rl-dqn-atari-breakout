@@ -1,0 +1,8 @@
+ipykernel
+matplotlib
+gymnasium
+ale-py
+opencv-python
+tqdm
+ipywidgets
+torchsummary
